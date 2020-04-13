@@ -1,2 +1,2 @@
 # AssetAllocation
-Analysis for Asset Allocation
+Analysis of Asset Allocation
